@@ -1,3 +1,7 @@
+Movement keys: Arrow keys control movement. Ghost moves around randomly and will chase the player if too close. Still trying to work out the ghost function so it doesn't remove the pellets when it moves onto one.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
